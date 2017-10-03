@@ -1,1 +1,1 @@
-Proyecto Automa de Pila en leguaje C++
+Proyecto Automa de Pila en lenguaje C++
