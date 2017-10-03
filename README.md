@@ -1,3 +1,1 @@
-# automatap
-automata de pila
-mostramos la primera parte de un automata de pila
+Proyecto Automa de Pila en leguaje C++
